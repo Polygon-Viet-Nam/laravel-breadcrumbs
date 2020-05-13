@@ -1,4 +1,4 @@
-**As of 18 April 2020, Laravel Breadcrumbs is not being maintained.** *Dave*
+**As of 18 April 2020, Laravel Breadcrumbs is not being maintained.** - *Dave*
 
 ---
 
